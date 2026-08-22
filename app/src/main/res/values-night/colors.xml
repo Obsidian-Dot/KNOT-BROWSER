@@ -1,0 +1,6 @@
+<resources>
+    <color name="wormhole_launch_background">#161514</color>
+    <color name="wormhole_status_bar">#2C2C2C</color>
+
+    <color name="wormhole_native_accent">#FFFFFF</color>
+</resources>
